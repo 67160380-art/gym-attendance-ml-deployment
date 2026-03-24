@@ -8,3 +8,6 @@
 ## 📊 2. เกี่ยวกับข้อมูล (Dataset)
 ข้อมูลจาก Kaggle: [Daily Gym Attendance and Workout Activity Data]
 ประกอบด้วยข้อมูล: อายุ, เพศ, ประเภทการออกกำลังกาย, ระยะเวลา และแคลอรี่
+
+"Live Application"
+https://gym-attendance-ml-deployment-5j3jezadjzctpmfpt6pa73.streamlit.app/
