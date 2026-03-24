@@ -17,8 +17,8 @@ col1, col2 = st.columns(2)
 with col1:
     age = st.number_input("อายุ (Age)", min_value=18, max_value=100, value=25)
     gender = st.selectbox("เพศ (Gender)", ["Male", "Female"])
-
-    membership = st.selectbox("ประเภทสมาชิก", ["Basic", "Standard", "Premium"])
+   
+    membership = st.selectbox("ประเภทสมาชิก", ["Annual", "Quarterly", "Monthly"])
 
 with col2:
    
