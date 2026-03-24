@@ -11,3 +11,7 @@
 
 "Live Application"
 https://gym-attendance-ml-deployment-5j3jezadjzctpmfpt6pa73.streamlit.app/
+
+ใช้อัลกอริทึม: Random Forest Regressor
+ความแม่นยำ (R2 Score): 0.7490
+ค่าความคลาดเคลื่อนเฉลี่ย (MAE): 95 Calories
